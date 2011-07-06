@@ -1,4 +1,5 @@
-//
+// TEST
+
 // showdown.js -- A javascript port of Markdown.
 //
 // Copyright (c) 2007 John Fraser.
@@ -16,8 +17,6 @@
 //				T K B
 //
 //   <http://www.attacklab.net/>
-//
-
 //
 // Wherever possible, Showdown is a straight, line-by-line port
 // of the Perl version of Markdown.
